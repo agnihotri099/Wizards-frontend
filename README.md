@@ -49,7 +49,8 @@ MONGO_URL="mongodb://localhost:27017/"
 ![image](https://github.com/agnihotri099/Wizards-frontend/assets/85986348/9ef56d6d-c7fe-4b9a-a86a-375548c4f12b)
 
 
-![Uploading image.png…]()
+![image](https://github.com/agnihotri099/Wizards-frontend/assets/85986348/a33cecee-edf8-4484-97d2-85271a10eade)
+
 
 
 
